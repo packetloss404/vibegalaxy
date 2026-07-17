@@ -1,0 +1,6 @@
+node_modules/
+.build/
+.env
+
+# Intermediate scratch output of generate-cosmic-mesh.mjs (coarse mesh before UltraShape refinement)
+coarse-cosmic-entity.glb
